@@ -34509,5 +34509,14 @@ ae1d343accdec586fe19954a6be7aee9:
     - cat
     - meme
     - cat meme
-
+    
+f6b5fdba51fd4bbdb717e7a9bffcc352:
+  key: 752b6486fb8f32998b1ea585aac1d7b99f7661d2deb6c0cf16375ccc318aa63b
+  source: 'tg://addstickers?set=Clippy'
+  tags:
+    - clippy
+    - telegram
+    - animated
+  animated: true
+  
 # ------------ ⬆︎ PLEASE ADD NEW ENTRIES AT THE TOP OF THIS FILE ⬆︎ -------------
